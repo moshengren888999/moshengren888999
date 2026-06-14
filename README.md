@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm 888 Number Check 👋
 
-<!--
-**moshengren888999/moshengren888999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Real-time phone number verification across 200+ countries and 40+ apps.**
 
-Here are some ideas to get you started:
+🔗 **[numbercheck.live](https://numbercheck.live)** — Free online tools for phone validation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What We Build
+- **WhatsApp Number Detection** — Check if numbers are registered on WhatsApp
+- **Telegram Verification** — Verify Telegram account status
+- **Bulk Validation API** — Process 100K+ numbers in minutes
+- **Free Tools** — [Format Checker](https://numbercheck.live/tools/phone-number-format-checker.html) · [SMS ROI Calculator](https://numbercheck.live/tools/sms-roi-calculator.html) · [WhatsApp Checker](https://numbercheck.live/tools/whatsapp-number-checker.html)
+
+### Tech Stack
+REST API · Python SDK · Node.js SDK · HLR Lookups · SS7 Signaling · E.164 Standard
+
+### Connect
+- 🌐 [numbercheck.live](https://numbercheck.live)
+- 💬 [Telegram](https://t.me/ayongzhanshen)
+- 📱 [WhatsApp](https://wa.me/66834280288)
+- 👍 [Facebook](https://www.facebook.com/888NumberCheck)
